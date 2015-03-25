@@ -1,0 +1,13 @@
+//////////////////////////////////////////////////////////////////////////
+// Author		:	Ngo Tien Dat
+// Email		:	dat.ngo@epfl.ch
+// Organization	:	EPFL
+// Purpose		:	Abstract function class. Used to pass function as 
+//					parameter into an algorithm
+// Date			:	26 March 2012
+//////////////////////////////////////////////////////////////////////////
+
+#include "Function.h"
+
+
+
