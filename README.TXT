@@ -3,8 +3,7 @@ ABOUT
 This folder contains sample code and data to track and reconstruct a 3D deformable surface in realtime.
 
 It is based on our paper:
-TD Ngo, J Ostlund, P Fua. Template-based Monocular 3D Shape Recovery using Laplacian Meshes
-. Accepted in IEEE Transactions on Pattern Analysis and Machine Intelligence.
+TD Ngo, J Ostlund, P Fua. Template-based Monocular 3D Shape Recovery using Laplacian Meshes. Accepted in IEEE Transactions on Pattern Analysis and Machine Intelligence.
 J. Östlund, A. Varol, T.D. Ngo and P. Fua. Laplacian Meshes for Monocular 3D Shape Recovery. 
 European Conference on Computer Vision, Florence, 2012.
 
