@@ -37,7 +37,6 @@ set(SOURCE_FILES
     ./src/Camera.cpp
     ./src/Linear/EqualConstrFunction.cpp
     ./src/Linear/EqualConstrOptimize.cpp
-    ./src/Linear/Function.cpp
     ./src/Linear/IneqConstrFunction.cpp
     ./src/Linear/IneqConstrOptimize.cpp
     ./src/Linear/LinearAlgebraUtils.cpp

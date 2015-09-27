@@ -1,9 +1,9 @@
 //////////////////////////////////////////////////////////////////////////
-// Author		:	Ngo Tien Dat
-// Email		:	dat.ngo@epfl.ch
+// Author		    :	Ngo Tien Dat
+// Email		    :	dat.ngo@epfl.ch
 // Organization	:	EPFL
-// Purpose		:	Some utility functions
-// Date			:	12 March 2012
+// Purpose		  :	Some utility functions
+// Date			    :	12 March 2012
 //////////////////////////////////////////////////////////////////////////
 
 #pragma once

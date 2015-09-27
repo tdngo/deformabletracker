@@ -1,6 +1,6 @@
 ABOUT
 ===========
-This folder contains sample code and data to track and reconstruct a 3D deformable surface in realtime.
+This folder contains sample code and data to track and reconstruct a 3D deformable surface in realtime. This is a research implementation without significant optimization.
 
 It is based on our papers:
 [1] TD Ngo, J Ostlund, P Fua. Template-based Monocular 3D Shape Recovery using Laplacian Meshes. Accepted in IEEE Transactions on Pattern Analysis and Machine Intelligence.
